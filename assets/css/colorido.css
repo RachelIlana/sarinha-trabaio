@@ -1,0 +1,36 @@
+body , html {
+    padding: 30px;
+    margin: 5px;
+    background-color: rgb(167, 88, 88);
+    background-position: center;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+}
+
+legend {
+    color:black;
+    font-style:oblique;
+    
+}
+fieldset {
+    color:black;
+margin-inline: 100px;
+border-radius: 20px;
+}
+.form {
+    position: relative
+}
+h1 {
+    font-style: italic;
+    color:black;
+    margin-left: 100px;  
+    text-decoration: dotted;
+}
+input {
+margin-block: 10px;
+border-radius: 10px;
+text-align: center;
+}
+
+ 
